@@ -12,6 +12,11 @@ Available for use in node.js or via webpack bundle.
 $ npm install --save git://github.com/wozitech/wit-domain.git
 ```
 
+## Update
+```bash
+$ npm update wit-domain
+```
+
 ## Use
 To the Javascript source requiring the domain:
 ```
