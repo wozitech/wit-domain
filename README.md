@@ -9,7 +9,7 @@ Available for use in node.js or via webpack bundle.
   
 ## Installation
 ```bash
-$ npm install --save https://github.com/wozitech/wit-domain.git
+$ npm install --save git://github.com/wozitech/wit-domain.git
 ```
 
 ## Use
@@ -24,4 +24,5 @@ import {DomainClass1, DomainClass2} from 'wit-domain';
 - Website - [https://github.com/wozitech/wit-domain.git](https://github.com/wozitech/wit-domain.git)
 
 ## Credits
+* https://docs.npmjs.com/getting-started/creating-node-modules
 * winston - https://www.npmjs.com/package/winston, for logging
