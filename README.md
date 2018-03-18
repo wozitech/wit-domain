@@ -1,14 +1,7 @@
-# wit-domain
-
-
-
-<p align="center">
-  <a href="http://wozitech-ltd.co.uk/projects.html" target="blank"><img src="http://wozitech-ltd.co.uk/images/wit-domain.png" alt="wit logo" /></a>
-
-    This is the WIT domain model, for reusing across all client and server side applications, abstracted from implementation technology, e.g. nest.js, react or VueJS.
-</p>
+<a href="http://wozitech-ltd.co.uk/projects.html" target="blank"><img src="http://wozitech-ltd.co.uk/images/wit-domain.png" alt="wit logo" /></a>
  
-<p align="center"></p>
+# wit-domain
+This is the WIT domain model, for reusing across all client and server side applications, abstracted from implementation technology, e.g. nest.js, react or VueJS.
 
 ## Description
 Available for use in node.js or via webpack bundle.
